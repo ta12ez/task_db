@@ -12,6 +12,7 @@
       "id": 2,
       "userName": "Ali",
       "title": "second",
+      
       "userImage":"https://static.toiimg.com/photo/80387978.cms?imgsize=174948",
       "content": "second post",
       "createdAt": "2024-01-02T14:30:00Z"
@@ -32,6 +33,7 @@
       "id": 1,
       "postId": 1,
       "userName": "Ali",
+      "userEmail":"test@gmail.com",
       "content": "Nice post ",
       "createdAt": "2024-01-01T11:00:00Z"
     },
@@ -39,6 +41,7 @@
       "id": 2,
       "postId": 1,
       "userName": "Sara",
+      "userEmail":"test2@gmail.com",
       "content": "Welcome ",
       "createdAt": "2024-01-01T12:15:00Z"
     }
