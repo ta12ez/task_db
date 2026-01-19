@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userName": "Tarek",
+      "userImage":"https://static.toiimg.com/photo/80387977.cms?imgsize=179681",
+      "title": "first",
+      "content": "This is my first post",
+      "createdAt": "2024-01-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "userName": "Ali",
+      "title": "second",
+      "userImage":"https://static.toiimg.com/photo/80387978.cms?imgsize=174948",
+      "content": "second post",
+      "createdAt": "2024-01-02T14:30:00Z"
+    },
+    
+    {
+      "id": 3,
+      "userName": "Amr",
+      "title": "third",
+      "userImage":"https://static.toiimg.com/photo/80387978.cms?imgsize=174948",
+      "content": "third post",
+      "createdAt": "2024-01-02T14:30:00Z"
+    }
+  ],
+
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "userName": "Ali",
+      "content": "Nice post ",
+      "createdAt": "2024-01-01T11:00:00Z"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "userName": "Sara",
+      "content": "Welcome ",
+      "createdAt": "2024-01-01T12:15:00Z"
+    }
+  ]
+}
